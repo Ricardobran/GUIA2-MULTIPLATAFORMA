@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## https://drive.google.com/file/d/1F_tR4w9tNMOyo57UV9FjBQNb8ly2OFpw/view?usp=sharing
+## Todos los scripts
 
 aqui deben ir el codigo:
 
